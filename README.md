@@ -1,7 +1,6 @@
 # vfio_nvme
-vfio user space application for testing nvme
 
-tested on x86 system with "intel_iommu=on iommu=pt"
+tested on x86 system with "intel_iommu=on iommu=pt" kernel command line
 
 
 root@bapvecise025:~# lspci -v -s 03:00.0
