@@ -3,7 +3,7 @@
 tested on x86 system with "intel_iommu=on iommu=pt" kernel command line
 
 
-root@bapvecise025:~# lspci -v -s 03:00.0
+root@root:~# lspci -v -s 03:00.0
 
 03:00.0 Non-Volatile memory controller: Samsung Electronics Co Ltd NVMe SSD Controller SM981/PM981/PM983 (prog-if 02 [NVM Express])
 
